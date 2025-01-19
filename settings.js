@@ -15,39 +15,39 @@ global.keyopenai = "XlmmVpWzu6r2jRu" //masukkan apikey kamu
 global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = '--'
+global.ig = '_m4riooooo'
 global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['72722727272'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '1718272828'
+global.ttowner = '@mariosky12'
+global.ownername = '@mario'
+global.owner = ['6285691136018'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6285691136018'
 global.socialm = 'GitHub: Tanmyname'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
-global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '085691136018' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '085710707300' // KOSONG KAN JIKA TIDAK ADA 
+global.noovo = '085710707300' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'mario' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'gada' // KOSONG KAN JIKA TIDAK ADA
+global.anovo = 'winik' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
-global.ownernumber = '1818191'
-global.botnumber = '6285198468895'
+global.botname = "MarSkyBOT"
+global.ownernumber = '6285691136018'
+global.botnumber = '6285691136018'
 global.ownername = '@Tan'
-global.ownerNumber = ["61827191818@s.whatsapp.net"]
+global.ownerNumber = ["6285691136018@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
 global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
 global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
+global.wm = "MarSkyBOT | 6285710707300"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.author = "\n\n\n\n\nCreate by MarSkyBOT\nNo hape/wa : 628571070730/"
+global.creator = "6285691136018@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
